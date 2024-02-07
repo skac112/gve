@@ -1,0 +1,5 @@
+package com.github.skac112.gve.elements.entities
+
+trait Thing extends Entity {
+
+}
